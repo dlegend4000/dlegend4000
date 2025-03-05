@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm a final year student and a previous JP Morgan Chase Intern
+# 👋 Hi, I'm Emmanuel Karibiye
+I am a final year student and a previous JP Morgan Chase Intern
 - 🔭 I’m currently working on a project investigating the feasibility of industrial computers in IIoT and establishing cloud computing workflows.
 - 🌱 I’m learning more about distributed systems currently.
 - 📫 How to reach me: [email@emmanuelkaribiye31@gmail.com](mailto:emmanuelkaribiye31@gmail.com)
