@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi, I'm Emmanuel Karibiye
-I am a final year student and a previous JP Morgan Chase Intern
-- 🔭 I’m currently working on a project investigating the feasibility of industrial computers in IIoT and establishing cloud computing workflows.
-- 🌱 I’m learning more about distributed systems currently.
+I am Cofounder & CTO of CallCrewAI
+🔭 As CTO of CallCrewAI, I’m building and refining AI-driven agentic systems that help construction business owners automate calls, admin and other tasks.
+🌱 I’m currently deepening my expertise in multi-agent architectures and scalable cloud infrastructure to enhance the intelligence and reliability of our AI platform.
 - 📫 How to reach me: [email@emmanuelkaribiye31@gmail.com](mailto:emmanuelkaribiye31@gmail.com)
 - ⚡ Fun fact: I love Music and Art 
