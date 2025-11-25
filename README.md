@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Emmanuel Karibiye
 I am Cofounder & CTO of CallCrewAI
-- 🔭 As CTO of CallCrewAI, I’m building the autopilot for trades and field service teams.
+- 🔭 I’m building the autopilot for trades and field service teams.
 - 🌱 I’m currently deepening my expertise in multi-agent architectures and scalable cloud infrastructure to enhance the intelligence and reliability of our AI platform.
 - 📫 How to reach me: [email@emmanuelkaribiye31@gmail.com](mailto:emmanuelkaribiye31@gmail.com)
 - ⚡ Fun fact: I love Music and Art 
